@@ -9,11 +9,11 @@ In this project, we will explore the several contributions in this area, and fin
 
 ## References
 
-- M. El Ayadi, M. S. Kamel, and F. Karray, \emph{Survey on speech emotion recognition: Features, classification
-schemes, and databases}, Pattern Recognition, vol. 44,
+- M. El Ayadi, M. S. Kamel, and F. Karray, **Survey on speech emotion recognition: Features, classification
+schemes, and databases**, Pattern Recognition, vol. 44,
 no.3, 2011.
 
-- Kulkarni, P. N., Gadhe, D. L. (2011). \emph{Comparison between SVM \& Other Classifiers for SER}. International Journal of Research and Technology, January, 2(1), 1-6.
+- Kulkarni, P. N., Gadhe, D. L. (2011). **Comparison between SVM \& Other Classifiers for SER**. International Journal of Research and Technology, January, 2(1), 1-6.
 
-- Hema Krishnan, M. Sudheep Elayidom, T. Santhanakrishnan (2017)\emph{Emotion Detection of Tweets using Naïve Bayes Classifier} International Journal of Engineering Technology Science and Research, November 2017, vol 4, 457-459
-- Yafeng Niu, Dongsheng Zou, Yadong Niu, Zhongshi He, Hua Tan Jul 2017 \emph{A breakthrough in Speech emotion recognition using Deep Retinal Convolution Neural Networks}. arXiv: 1707.09917[cs.SD].
+- Hema Krishnan, M. Sudheep Elayidom, T. Santhanakrishnan (2017)**Emotion Detection of Tweets using Naïve Bayes Classifier** International Journal of Engineering Technology Science and Research, November 2017, vol 4, 457-459
+- Yafeng Niu, Dongsheng Zou, Yadong Niu, Zhongshi He, Hua Tan Jul 2017 **A breakthrough in Speech emotion recognition using Deep Retinal Convolution Neural Networks**. arXiv: 1707.09917[cs.SD].
