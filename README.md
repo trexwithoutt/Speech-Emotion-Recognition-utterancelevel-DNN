@@ -25,3 +25,7 @@ In this project, we will explore the several contributions in this area, and fin
 - Seyedmahdad Mirsamadi, Emad Barsoum, Cha Zhang 2017. **Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention**.Washington: Microsoft Research, One Microsoft Way, 2017
 
 - C. Busso, M. Bulut, C. Lee, A. Kazemzadeh, E. Mower, S. Kim, J. Chang, S. Lee, and S. Narayanan, **IEMOCAP: Interactive emotional dyadic motion capture database**, Journal of Language Resources and Evaluation, vol. 42, no. 4, pp. 335-359, December 2008.
+
+- Kim, P.Georgiou, S.Lee, S.Narayanan. **Real-time emotion detection system using speech: Multi-modal fusion of different timescale features**, Proceedings of IEEE Multimedia Signal Processing Workshop, Chania, Greece, 2007
+
+- E. Mower, M. J. Mataric, and S. Narayanan, **A framework for automatic human emotion classification using emotion profiles, Audio, Speech, and Language Processing**, IEEE Transactions on, vol. 19, no. 5, pp. 10571070, 2011.
