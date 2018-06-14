@@ -23,3 +23,5 @@ In this project, we will explore the several contributions in this area, and fin
 - Fred G. Martin Robotics **Explorations: A Hands-On Introduction to Engineering**. New Jersey: Prentice Hall.
 
 - Seyedmahdad Mirsamadi, Emad Barsoum, Cha Zhang 2017. **Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention**.Washington: Microsoft Research, One Microsoft Way, 2017
+
+- C. Busso, M. Bulut, C. Lee, A. Kazemzadeh, E. Mower, S. Kim, J. Chang, S. Lee, and S. Narayanan, **IEMOCAP: Interactive emotional dyadic motion capture database**, Journal of Language Resources and Evaluation, vol. 42, no. 4, pp. 335-359, December 2008.
