@@ -9,11 +9,13 @@ In this project, we will explore the several contributions in this area, and fin
 
 ## Background
 
-	- SVM
+	- Support Vector Machine
 
-	- Naive Bayes
+	- K Nearest Neighbors
 
-	- DNN
+	- Deep Neural Networks
+
+	- Extreme Learning Machine
 
 
 ## References
