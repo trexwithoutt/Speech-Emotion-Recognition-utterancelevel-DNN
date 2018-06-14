@@ -29,3 +29,5 @@ In this project, we will explore the several contributions in this area, and fin
 - Kim, P.Georgiou, S.Lee, S.Narayanan. **Real-time emotion detection system using speech: Multi-modal fusion of different timescale features**, Proceedings of IEEE Multimedia Signal Processing Workshop, Chania, Greece, 2007
 
 - E. Mower, M. J. Mataric, and S. Narayanan, **A framework for automatic human emotion classification using emotion profiles, Audio, Speech, and Language Processing**, IEEE Transactions on, vol. 19, no. 5, pp. 10571070, 2011.
+
+- G.-B. Huang, Q.-Y. Zhu, and C.-K. Siew, **Extreme learning machine: theory and applications, Neurocomputing**, vol. 70, no. 1, pp. 489501, 2006.
