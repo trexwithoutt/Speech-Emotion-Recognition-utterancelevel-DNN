@@ -31,3 +31,5 @@ In this project, we will explore the several contributions in this area, and fin
 - E. Mower, M. J. Mataric, and S. Narayanan, **A framework for automatic human emotion classification using emotion profiles, Audio, Speech, and Language Processing**, IEEE Transactions on, vol. 19, no. 5, pp. 10571070, 2011.
 
 - G.-B. Huang, Q.-Y. Zhu, and C.-K. Siew, **Extreme learning machine: theory and applications, Neurocomputing**, vol. 70, no. 1, pp. 489501, 2006.
+
+- . Kim and E. Mower Provost, **Emotion classification via utterance-level dynamics: A pattern-based approach to characterizing affective expressions**, in Proceedings of IEEE ICASSP 2013. IEEE, 2013.
