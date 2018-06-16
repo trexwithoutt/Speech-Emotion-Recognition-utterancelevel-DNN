@@ -33,3 +33,5 @@ In this project, we will explore the several contributions in this area, and fin
 - G.-B. Huang, Q.-Y. Zhu, and C.-K. Siew, **Extreme learning machine: theory and applications, Neurocomputing**, vol. 70, no. 1, pp. 489501, 2006.
 
 - . Kim and E. Mower Provost, **Emotion classification via utterance-level dynamics: A pattern-based approach to characterizing affective expressions**, in Proceedings of IEEE ICASSP 2013. IEEE, 2013.
+
+- Schuller, G. Rigoll, and M. Lang, **Hidden markov model-based speech emotion recognition**, in Proceedings of IEEE ICASSP 2003, vol. 2. IEEE, 2003, pp. II1.
