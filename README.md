@@ -23,7 +23,11 @@ In this project, we will explore the several contributions in this area, and fin
 |----------------------------------|-----------------------------------------------------------|
 | High-level Statistical Functions | mean, variance, max, min, median, etc.                    |
 
+## Algorithms
 
+### Segment-level Features Extraction
+
+### Utterance-level Features Extraction
 
 
 ## References
