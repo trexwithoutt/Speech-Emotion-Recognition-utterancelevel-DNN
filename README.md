@@ -17,6 +17,14 @@ In this project, we will explore the several contributions in this area, and fin
 
 	- Extreme Learning Machine
 
+## Introduction
+
+| Low Level Descriptors            | MFCC, Mel-filterbank, formant, HNR, jitter, shimmer, etc. |
+|----------------------------------|-----------------------------------------------------------|
+| High-level Statistical Functions | mean, variance, max, min, median, etc.                    |
+
+
+
 
 ## References
 
