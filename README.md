@@ -27,6 +27,12 @@ In this project, we will explore the several contributions in this area, and fin
 
 ### Segment-level Features Extraction
 
+- MFCC
+
+- Harmonic to Noise Ratio
+
+- Pitch Period
+
 ### Utterance-level Features Extraction
 
 
