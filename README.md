@@ -35,6 +35,13 @@ In this project, we will explore the several contributions in this area, and fin
 
 ### Utterance-level Features Extraction
 
+- Maximal 
+
+- Minimal
+
+- Average
+
+- Percentage above certain threshold
 
 ## References
 
