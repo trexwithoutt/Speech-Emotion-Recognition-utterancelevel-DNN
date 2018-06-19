@@ -7,6 +7,9 @@ such as communication, learning and decision-making. Recently, SER has been draw
 
 In this project, we will explore the several contributions in this area, and find out the significant algorithm doing the emotion detection from speech. We are particularly interested to compare the human-engineered features to the raw representations in human speech. 
 
+## Corpus 
+
+
 ## Background
 
 	- Support Vector Machine
@@ -35,13 +38,17 @@ In this project, we will explore the several contributions in this area, and fin
 
 ### Utterance-level Features Extraction
 
-- Maximal 
+- Maximal
 
 - Minimal
 
 - Average
 
 - Percentage above certain threshold
+
+### Extreme Learning Machine
+
+### Other Models
 
 ## References
 
