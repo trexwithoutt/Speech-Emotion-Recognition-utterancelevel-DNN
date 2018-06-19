@@ -9,6 +9,16 @@ In this project, we will explore the several contributions in this area, and fin
 
 ## Corpus 
 
+The data used for this project is Interactive Emotional Dyadic Motion Capture (IEMOCAP) database which comes from Signal Analysis and Interpretation Laboratory at the University of South California. It contains 12 hours of audiovisual data, including video, speech, motion capture of face, text transcriptions[3]. The recordings consist of professional actors improvising and scripting a series of semantically neutral utterances spanning ten distinct emotional categories. There were 5 female speakers and 5 male speakers. The number and count ratio of utterances that belong to each emotion category is shown in table.
+
+
+|        | Ang   | Hap   | Exc   | Neu   | Sad   |
+|--------|-------|-------|-------|-------|-------|
+| Counts | 1103  | 595   | 1041  | 1708  | 1084  |
+| Ratio  | 19.9% | 10.8% | 18.8% | 30.9% | 19.6% |
+
+
+
 
 ## Background
 
