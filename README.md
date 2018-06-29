@@ -41,6 +41,8 @@ The data used for this project is Interactive Emotional Dyadic Motion Capture (I
 ### Segment-level Features Extraction
 
 - MFCC
+	
+	Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum") ([wiki](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum))
 
 - Harmonic to Noise Ratio
 
