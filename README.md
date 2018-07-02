@@ -46,6 +46,12 @@ The data used for this project is Interactive Emotional Dyadic Motion Capture (I
 
 - Harmonic to Noise Ratio
 
+	$$
+
+	HNR(m) = 10 log(\frac{ACF(\tau_0(m))}{ACF(0) - ACF(\tau_0(m))})
+
+	$$
+
 - Pitch Period
 
 ### Utterance-level Features Extraction
