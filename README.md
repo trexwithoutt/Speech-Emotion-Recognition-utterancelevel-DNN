@@ -1,4 +1,4 @@
-# Global Features in SER on IEMOCAP
+# Speech Emotion Recognition on Utterance Level
 
 ## Original Aim
 
