@@ -59,7 +59,19 @@ The data used for this project is Interactive Emotional Dyadic Motion Capture (I
 
 - Percentage above certain threshold
 
-### Extreme Learning Machine
+### Extreme Learning Machine(*introduce*)[http://www.ntu.edu.sg/home/egbhuang/]
+
+- **Network architectures**: a homogenous hierarchical learning machine for partially or fully connected multi layers / single layer of (artifical or biological) networks with almost any type of practical (artifical) hidden nodes (or bilogical neurons).
+
+- **Learning theories**: Learning can be made without iteratively tuning (articial) hidden nodes (or biological neurons).
+
+- **Learning algorithms**: General, unifying and universal (optimization based) learning frameworks for compression, feature learning, clustering, regression and classification. Basic steps:
+
+	1) Learning are made layer wise (in white box)
+
+	2) Randomly generate (any nonliear piecewise) hidden neurons or inheritate hidden neuorns from ancestors
+
+	3) Learn the output weights in each hidden layer (with application based optimization constraints)
 
 ### Other Models
 
