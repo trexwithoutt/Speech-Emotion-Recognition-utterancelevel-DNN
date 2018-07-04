@@ -59,7 +59,7 @@ The data used for this project is Interactive Emotional Dyadic Motion Capture (I
 
 - Percentage above certain threshold
 
-### Extreme Learning Machine(*introduce*)[http://www.ntu.edu.sg/home/egbhuang/]
+### Extreme Learning Machine [*introduce*](http://www.ntu.edu.sg/home/egbhuang/)
 
 - **Network architectures**: a homogenous hierarchical learning machine for partially or fully connected multi layers / single layer of (artifical or biological) networks with almost any type of practical (artifical) hidden nodes (or bilogical neurons).
 
