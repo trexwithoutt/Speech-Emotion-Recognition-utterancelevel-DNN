@@ -46,6 +46,7 @@ The data used for this project is Interactive Emotional Dyadic Motion Capture (I
 
 - Harmonic to Noise Ratio
 
+	<img src="https://github.com/trexwithoutt/Speech-Emotion-Recognition-utterancelevel-DNN/blob/master/references/hnr.png">
 
 - Pitch Period
 
